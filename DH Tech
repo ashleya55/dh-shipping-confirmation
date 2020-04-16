@@ -1,0 +1,324 @@
+<!doctype html>
+<!--Quite a few clients strip your Doctype out, and some even apply their own. Many clients do honor your doctype and it can make things much easier if you can validate constantly against a Doctype.-->
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Email template By Adobe Dreamweaver CC</title>
+
+<!-- Please use an inliner tool to convert all CSS to inline as inpage or external CSS is removed by email clients -->
+<!-- important in CSS is used to prevent the styles of currently inline CSS from overriding the ones mentioned in media queries when corresponding screen sizes are encountered -->
+
+<style type="text/css">
+body {
+	margin: 0;
+	background-size: cover;
+	background-attachment: fixed;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	background-image: url(https://res.cloudinary.com/dh-tech/image/upload/v1587074798/AdobeStock_Geometric_kyghmm.png);
+}
+body, table, td, p, a, li, blockquote {
+	-webkit-text-size-adjust: none!important;
+	font-family: sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+td p img {
+	opacity: 1;
+	color: #473E3E;
+	background-color: #000000;
+	-webkit-box-shadow: 0px 0px #000000;
+	box-shadow: 0px 0px #000000;
+}
+button {
+	width: 90%;
+}
+
+@media screen and (max-width:600px) {
+/*styling for objects with screen size less than 600px; */
+body, table, td, p, a, li, blockquote {
+	-webkit-text-size-adjust: none!important;
+	font-family: sans-serif;
+}
+table {
+	/* All tables are 100% width */
+	width: 100%;
+}
+.footer {
+	/* Footer has 2 columns each of 48% width */
+	height: auto !important;
+	max-width: 48% !important;
+	width: 48% !important;
+}
+table.responsiveImage {
+	/* Container for images in catalog */
+	height: auto !important;
+	max-width: 30% !important;
+	width: 30% !important;
+}
+table.responsiveContent {
+	/* Content that accompanies the content in the catalog */
+	height: auto !important;
+	max-width: 66% !important;
+	width: 66% !important;
+}
+.top {
+	/* Each Columnar table in the header */
+	height: auto !important;
+	max-width: 48% !important;
+	width: 48% !important;
+}
+.catalog {
+	margin-left: 0%!important;
+}
+}
+
+@media screen and (max-width:480px) {
+/*styling for objects with screen size less than 480px; */
+body, table, td, p, a, li, blockquote {
+	-webkit-text-size-adjust: none!important;
+	font-family: sans-serif;
+}
+table {
+	/* All tables are 100% width */
+	width: 100% !important;
+	border-style: none !important;
+}
+.footer {
+	/* Each footer column in this case should occupy 96% width  and 4% is allowed for email client padding*/
+	height: auto !important;
+	max-width: 96% !important;
+	width: 96% !important;
+}
+.table.responsiveImage {
+	/* Container for each image now specifying full width */
+	height: auto !important;
+	max-width: 96% !important;
+	width: 96% !important;
+}
+.table.responsiveContent {
+	/* Content in catalog  occupying full width of cell */
+	height: auto !important;
+	max-width: 96% !important;
+	width: 96% !important;
+}
+.top {
+	/* Header columns occupying full width */
+	height: auto !important;
+	max-width: 100% !important;
+	width: 100% !important;
+}
+.catalog {
+	margin-left: 0%!important;
+	
+}
+button {
+	width: 90%!important;
+}
+}
+a:link {
+	color: #8BC23D;
+}
+a:visited {
+	color: #2A20D0;
+}
+body,td,th {
+	color: #000000;
+}
+</style>
+</head>
+<body bgcolor="#E1DDDE" link="#8BC23D" yahoo="yahoo">
+<div>
+  <div>
+    <div>
+      <table width="100%"  cellspacing="0" cellpadding="0">
+        <tbody>
+          <tr>
+            <td><table width="600"  align="center" cellpadding="0" cellspacing="0">
+              <!-- Main Wrapper Table with initial width set to 60opx -->
+              <tbody>
+                <tr> </tr>
+                <tr> 
+                  <!-- HTML Spacer row -->
+                  <td style="font-size: 0; line-height: 0;" height="20"><table width="96%" align="left"  cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td style="font-size: 0; line-height: 0;" height="20">&nbsp;</td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                <tr> 
+                  <!-- HTML IMAGE SPACER -->
+                  <td style="font-size: 0; line-height: 0;" height="20"><table align="left"  cellpadding="0" cellspacing="0" >
+                    <tr>
+                      <td >&nbsp;</td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                </tbody>
+              </table>
+              <center></center>
+              <table width="600"  align="center" cellpadding="0" cellspacing="0">
+                <tbody>
+                  <tr> </tr>
+                  <tr> 
+                    <!-- HTML Spacer row -->            </tr>
+                  <tr> 
+                    <!-- Introduction area -->
+                    <td><table width="96%"  align="left" cellpadding="0" cellspacing="0">
+                      <tr> 
+                        <!-- row container for TITLE/EMAIL THEME -->                  </tr>
+                      </table>
+                      <center></center>
+                      <table width="96%"  align="left" cellpadding="0" cellspacing="0">
+                        <tr> </tr>
+                        <tr> 
+                          <!-- row container for Tagline -->
+                        </tr>
+                        <tr> </tr>
+                        <tr> 
+                          <!-- Row container for Intro/ Description -->
+                          <td align="left" style="font-size: 14px; background-color:rgba(255,255,255,.5); font-style: normal; font-weight: 100; color: #000000; line-height: 1.8; text-align:justify; padding:10px 20px 0px 20px; font-family: sans-serif;"><p>&nbsp;</p>
+                           <img src="https://res.cloudinary.com/dh-tech/image/upload/v1587078998/DH_Tech_Logo_HQ_zjqlpy.png" hspace="175" width="300" height="auto" alt=""/>
+							  <center><p style="font-size: 30px">Shipping Confirmation</p></center>
+                            <p> Hello,</p>
+                            <p>Your order HT001519F0127 placed with DH Technologies is on its way! The tracking number is below for you to track your order. It may take up to 48 hours to update tracking information.</p>
+                            <p><strong>&nbsp;Tracking Number:</strong></p>
+                            <p>&nbsp;<strong>Shipping Date:</strong></p>
+                            <p>&nbsp;<strong>S</strong><strong>hipping Method:</strong>
+                            <p><strong>&nbsp;Shipping Information:</strong>
+                            <p>&nbsp;<strong>Jack Larse &nbsp; <br>
+                              &nbsp;</strong>2202 Commissary RdBLDG 4188, Bay D, Office 2 <br>
+                              &nbsp;JBSA FT. SAM Houston, TX, 20176-3376
+                            <p><strong>Shipping Contents:</strong></p>
+                            </p>
+                            <table width="700" border="1">
+                              <tbody>
+                                <tr>
+                                  <td>&nbsp;<strong><center>Qty</center></strong></td>
+                                  <td>&nbsp;<strong><center>Part No.</center></strong></td>
+                                  <td>&nbsp;<strong><center>Description</center></strong></td>
+                                </tr>
+                                <tr>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+								<td>&nbsp;</td>
+                                  <td>&nbsp;</td>
+									<td>&nbsp;</td>
+                                </tr>
+                              </tbody>
+                            </table>
+
+<center>
+  <p style="font-size: 20px"><strong>Are there any additional projects that you need assistance with?&nbsp;</strong></p>
+  <a href="http://www.dhtech.com/wp-content/uploads/2018/10/DHTECH-CapStatement-Sept2018.pdf" target="_blank"><img src="https://res.cloudinary.com/dh-tech/image/upload/v1587077851/Capabilities_button_copy_l7pvvu.png" width="500" height="auto" alt="capabilities statement"></a>
+</center>
+<center></center>
+                            </p>
+                          </p></td>
+                        </tr>
+                      </table></td>
+                  </tr>
+                  <tr> </tr>
+                  <tr> 
+                    <!-- HTML spacer row -->
+                    <td style="font-size: 0; line-height: 0;" height="20"><table width="96%" align="left"  cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td style="font-size: 0; line-height: 0;" height="7">&nbsp;</td>
+                        </tr>
+                      </table></td>
+                  </tr>
+                  <tr bgcolor="#EBEBEB">
+                    <td><table class="footer" width="48%"  align="left" cellpadding="0" cellspacing="0">
+                      <!-- First column of footer content -->
+                      <tr>
+                        <td><p align="center"  style="font-size: 22px; font-weight:300; line-height: 2.5em; color: #000000; font-family: sans-serif;"><strong>DH Technologies</strong></p>
+                          <p align="center" style="font-size: 16px; color:#000000; text-align:center; font-family: sans-serif;">"We're doing whatever it takes </p>
+                          <p align="center" style="font-size: 16px; color:#000000; text-align:center; font-family: sans-serif;">to get the job done right!"&nbsp; </p></td>
+                        </tr>
+                      </table>
+                      <table class="footer" width="48%"  align="left" cellpadding="0" cellspacing="0">
+                        <!-- Second column of footer content -->
+                        <tr>
+                          <td><p style="font-size: 14px; font-style: normal; font-weight:normal; color: #ffffff; line-height: 1.8; text-align:justify;padding-top:10px; margin-left:140px; margin-right:10px; font-family: sans-serif;">&nbsp;</p>
+                            <p style="font-size: 14px; font-style: normal; font-weight:normal; color: #000000; line-height: 1.8; text-align:justify;padding-top:10px; margin-left:140px; margin-right:10px; font-family: sans-serif;">(703) 592-6309<br>
+                              161 Fort Evans Rd. NE,<br>
+                              Suite 255<br>
+                              Leesburg, VA 20176 </p>
+<p align="right" style="font-family: sans-serif;"> <font color="#929292"> <a href="www.dhtech.com">www.dhtech.com </a></font></p></td>
+                        </tr>
+                      </table></td>
+                  </tr>
+                </tbody>
+              </table></td>
+          </tr>
+        </tbody>
+      </table>
+      <table width="100%"  cellspacing="0" cellpadding="0">
+        <tbody>
+          <tr> </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+</body>
+</html>
